@@ -73,7 +73,7 @@ a, a:hover {
 .dsmovie-card img {
     width: 100%;
     border-radius: 8px 8px 0 0;
-    height: 250px;
+    
 }
 
 .dsmovie-card-description {
@@ -106,4 +106,9 @@ a, a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.dsmovie-form-container {
+    padding: 40px 0;
+    max-width: 400px;
 }
